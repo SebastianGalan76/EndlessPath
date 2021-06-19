@@ -3,8 +3,8 @@
 <b>Endless Path</b> is an arcade game in which we move the player along an infinite, randomly generated path from the patterns. The game features simple and easy-to-learn controls and the gameplay is simple to learn. Your goal is to move the player right-left so as not to touch the edge of the path. Over time, the game speeds up and requires more focus.
 
 
-<b>Google Play: </b> <a href="https://play.google.com/store/apps/details?id=com.Coresaken.EndlessPath">https://play.google.com/Coresaken.EndlessPath</a></br>
-<b>Trailer: </b> <a href="https://www.youtube.com/watch?v=VFGJqDGgqkM">https://www.youtube.com/EndlessPath-Trailer</a>
+<b>Google Play: </b> <a href="https://play.google.com/store/apps/details?id=com.Coresaken.EndlessPath">GooglePlay/EndlessPath</a></br>
+<b>Trailer: </b> <a href="https://www.youtube.com/watch?v=VFGJqDGgqkM">YouTube/EndlessPath</a>
  
   <b>Features: </b>
 - Free to play
