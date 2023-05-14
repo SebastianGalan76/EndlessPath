@@ -4,9 +4,8 @@
 
 
 <b>Google Play: </b> <a href="https://play.google.com/store/apps/details?id=com.Coresaken.EndlessPath">GooglePlay/EndlessPath</a></br>
-<b>Trailer: </b> <a href="https://www.youtube.com/watch?v=VFGJqDGgqkM">YouTube/EndlessPath</a>
- 
-  <b>Features: </b>
+<b>Trailer: </b> <a href="https://www.youtube.com/watch?v=VFGJqDGgqkM">YouTube/EndlessPath</a><br><br>
+  <b>Features: </b> <a href="https://www.youtube.com/watch?v=EtWCF2Dl1Gc">YouTube/EndlessPath/Features</a>
 - Free to play
 - Beautiful minimalistic graphics
 - Relaxing gameplay with no pressure or time limit
